@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Agenda Telefonica</title>
+</head>
+<body>
+ <div class="container">
+  <header>
+    <h1>Agenda de contatos</h1>
+    <p>Vamos salvar os seus contatos online? Informe nome e numero de contato com o DDD</p>
+  </header>
+
+  <form id="formulario">
+    <input type="text" id="nome"  required placeholder="Digite o nome aqui">
+    <input type="tel" id="numero" required placeholder="Telefone com DDD" pattern="[0-9]{2}[0-9]{5}[0-9]{4}">
+
+    <button type="submit">NovoContato+</button>
+  </form>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Nome do Contato</th>
+        <th>Numero do contato</th>
+      </tr>
+    </thead>
+    <tbody>
+    </tbody>
+  </table>
+ </div>
+ <script src="./main.js"></script>
+</body>
+</html>
