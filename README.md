@@ -1,4 +1,4 @@
-# Agenda de Contatos Online 🧮
+# Agenda de Contatos Online 📒
 
 Este é um projeto de uma agenda de contatos online desenvolvida com HTML, CSS e JavaScript. O objetivo deste projeto foi colocar em prática meus estudos, criando uma aplicação interativa onde é possível adicionar e visualizar contatos de forma simples. Ao adicionar um novo contato, o sistema verifica se o número já foi inserido, evitando duplicações.
 
