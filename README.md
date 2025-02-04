@@ -28,7 +28,7 @@ Este é um projeto de uma agenda de contatos online desenvolvida com HTML, CSS e
 Este projeto foi criado com o objetivo de testar e aprimorar meus conhecimentos em HTML, CSS e JavaScript, focando principalmente na manipulação de formulários e na criação de interatividade com o usuário.
 
 ## Autor
-Desenvolvido por **Lucas**, um entusiasta de tecnologia e desenvolvimento web.
+Desenvolvido por **Lucas Moura**, como parte dos estudos em desenvolvimento front-end.
 
 ## Licença
 Este projeto é livre para uso e modificação.
